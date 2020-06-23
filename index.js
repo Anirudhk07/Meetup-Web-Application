@@ -24,6 +24,7 @@ var rsvpListener = null;
 var guestbookListener = null;
 
 // Add Firebase project configuration object here
+//add your keys over here
  var firebaseConfig = {
    
   };
